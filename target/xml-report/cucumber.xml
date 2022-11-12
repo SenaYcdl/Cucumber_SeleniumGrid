@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.378">
+    <testcase classname="US001 Google Search" name="TC01 user trendyol da makas aratir" time="25.196">
+        <system-out><![CDATA[Given user google gider.....................................................passed
+Then user trendyolu aratir..................................................passed
+And user trendyola gider....................................................passed
+And user makas aratir.......................................................passed
+And toplam urun sayisini alir...............................................passed
+And yeni sekmede morhipo gider..............................................passed
+And user morhipoda makas aratir.............................................passed
+And toplam makas sayisini alir..............................................passed
+Then iki sitedeki topla makas sayısını karşılaştırınız......................passed
+And once ürün sayısı fazla olan siteyi kapatınız............................passed
+Then Sonra diğer sayfayıda kapatınız........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
